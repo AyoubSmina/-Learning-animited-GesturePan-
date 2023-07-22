@@ -5,4 +5,4 @@ Tech :
   React-Native
   Typescripts
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/YGmz6ExiSPM)
+[![Watch the video](https://img.youtube.com/vi/YGmz6ExiSPM/maxresdefault.jpg)](https://youtu.be/YGmz6ExiSPM)
