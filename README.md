@@ -5,4 +5,4 @@ Tech :
   React-Native
   Typescripts
 
-<video src='image/README/demo-test-1.mp4' width=180/>
+<video src='https://github.com/AyoubSmina/-Learning-animited-GesturePan-/image/README/demo-test-1.mp4' width=180/>
